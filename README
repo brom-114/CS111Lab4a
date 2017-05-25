@@ -11,12 +11,11 @@ wlan0 MAC ADDRESS :   90:b6:86:01:17:e8
 // Included Files
 /////////////////////////////////////////
 
-PIC selfie with assembled edison
-SS from usb connection giving name and network access (UBUN)
-SS scpy helloWorld (here)
-SS build run (here)
-
-TODO: SS of pushing git repo to github account and a pull from the Edison device
+assembledBoard.png	- PIC selfie with assembled edison
+nameAndWifi.png		- ScreenShot from usb connection giving name and setting up wifi
+SCP.png			- ScreenShot of using scpy to copy helloWorld.c to the Edison
+buildAndRun		- ScreenShot of building helloWorld.c and running it
+gitClone.png		- ScreenShot of pushing git repo to github account and a pull from the Edison device
 
 
 
