@@ -2,8 +2,8 @@ NAME: Juan Hernandez
 EMAIL: juan.m4.hernandez@gmail.com
 ID: 904476103
 
-INTEL EDISON SERIAL NUMBER :   FZEDA542D00S9E501
-wlan0 MAC ADDRESS :   90:b6:86:01:17:e8
+SERIAL NUMBER :   102010148
+wlan0 MAC ADDRESS :   2c:f7:f1:06:69:63
 
 
 
@@ -11,21 +11,13 @@ wlan0 MAC ADDRESS :   90:b6:86:01:17:e8
 // Included Files
 /////////////////////////////////////////
 
-assembledBoard.png	- PIC selfie with assembled edison
-nameAndWifi.png		- ScreenShot from usb connection giving name and setting up wifi
-SCP.png			- ScreenShot of using scpy to copy helloWorld.c to the Edison
-buildAndRun		- ScreenShot of building helloWorld.c and running it
-gitClone.png		- ScreenShot of pushing git repo to github account and a pull from the Edison device
+my_beaglebone.png	- PIC selfie with assembled BeagleBone
+connected.png		- ScreenShot from usb connection giving name and setting up wifi
+copy.png			- ScreenShot of using scp to copy helloWorld.c to the Edison
+build_run.png		- ScreenShot of building helloWorld.c and running it
+git.png		- ScreenShot of pushing git repo to github account and a pull from device
 
 
 
 
-//Possible ways to connect wirelessly 
-// ssh root@192.0. ...
-// ssh root@deviceName.local
-// ssh root@hostname                  // "hostname" defined in /etc/hosts
 
-
-
-
-// sudo screen /dev/ttyUSB0 115200
